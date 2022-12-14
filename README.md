@@ -1,12 +1,15 @@
 The project for MMS 140 at the University of the Philippines Open University will focus on discussing the impact of artificial intelligence on the art generation industry. The project will be divided into six parts:
 
-Part 1: Extended Definition of Disruptive Technology
-Part 2: What is Artificial Intelligence in Art Generation / How Does it Work
-Part 3: Brief History and Current Situation of Artificial Intelligence in Art Generation
-Part 4: Why is Artificial Intelligence in Art Generation Disruptive [Positive and Negative]
-Part 5: What Field/Market is Artificial Intelligence in Art Generation Disrupting
-Part 6: Conclusion [Alternatives?].
-In part 1, the project will provide an extended definition of disruptive technology, examining its characteristics and how it differs from other types of technology. In part 2, the project will describe what artificial intelligence in art generation is and how it works, including a discussion of the various algorithms and techniques used.
+Part 1: Extended Definition of Disruptive Technology <br>
+Part 2: What is Artificial Intelligence in Art Generation / How Does it Work <br>
+Part 3: Brief History and Current Situation of Artificial Intelligence in Art Generation <br>
+Part 4: Why is Artificial Intelligence in Art Generation Disruptive [Positive and Negative] <br>
+Part 5: What Field/Market is Artificial Intelligence in Art Generation Disrupting <br>
+Part 6: Conclusion [Alternatives?]. <br>
+
+In part 1, the project will provide an extended definition of disruptive technology, examining its characteristics and how it differs from other types of technology. 
+
+In part 2, the project will describe what artificial intelligence in art generation is and how it works, including a discussion of the various algorithms and techniques used.
 
 In part 3, the project will provide a brief history of artificial intelligence in art generation, from its early beginnings to its current state of development. This section will also discuss the current situation of AI in the art industry, including its current uses and limitations.
 
